@@ -1,0 +1,30 @@
+Pro Micro
+* USB Host
+* 1 Serial 
+
+Device with 3+1 serial
+* Serial for BT
+* Serial for BLE
+* Serial for WiFi?
+(* Serial for IO)
+
+ESP8266/ESP32 - 2+1
+* Serial for BLE
+* Serial for BT
+* Serial for IO
+
+https://learn.sparkfun.com/tutorials/adding-more-sercom-ports-for-samd-boards/all
+
+multiplex?
+
+Adding More SERCOM Ports for SAMD Boards - learn.sparkfun.com
+learn.sparkfun.com
+http://captainunlikely.com/blog/2015/01/31/four-serial-ports-on-an-atmega32u4/
+
+Four serial ports on an ATmega32U4
+
+serial port expander
+
+quad UART
+
+https://github.com/cnlohr/espusb
